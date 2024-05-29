@@ -1,0 +1,15 @@
+{
+    "name": "nolove/nolife",
+    "autoload": {
+        "psr-4": {
+            "Nolove\\Nolife\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angostura483",
+            "email": "haodaph46419@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
